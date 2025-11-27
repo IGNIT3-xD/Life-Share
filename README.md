@@ -86,6 +86,11 @@ npm run dev
 ![Details](public/screenshots/details.png)
 
 ### 📊 Manage Donors Panel
-![Manage Donors](public/screenshots/manage.png)
+![Manage Donors](public/screenshots/manage.png)  
+
+## Feedback
+
+If you have any feedback, please reach out to us at md.imranali2046@gmail.com  
+Linkedin: https://www.linkedin.com/in/md-imran-ali-291498392/
 
 
